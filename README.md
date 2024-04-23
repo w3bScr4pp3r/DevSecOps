@@ -10,4 +10,4 @@ Repositório para alguns projetos de automação para Cibersegurança.
 
 3 - Salve o csv com a lista de IPs na mesma pasta do script (que esteja na primeira coluna);
 
-4 - Depois é só executar o programa e esperar fazer a consulta.
+4 - Depois é só executar o programa e esperar fazer as consulta.
